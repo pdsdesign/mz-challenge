@@ -576,6 +576,7 @@ $topbar-unstack-breakpoint: medium;
 // -----------
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
 
+.texto_intro { padding-top:40px; padding-bottom:10px;}
 
 #texto_explicativo{ background: #4d4d4d; color:#fff; padding:40px 0; margin:0; };
 
@@ -595,3 +596,7 @@ $topbar-unstack-breakpoint: medium;
   margin-right: auto; background: #FFF;}
 
   .center_block {margin: 0 auto !important;}
+
+  .contact_div { background: #ebebeb; padding-top: 40px; padding-bottom:40px;}
+
+  .footer_copy { color: #FFF ; text-align: center; padding-top:20px;}
