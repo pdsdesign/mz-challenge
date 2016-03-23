@@ -33,4 +33,7 @@ to finish npm:
 ```sh
 $ CTRL^ C
 ```
+
+In the end I've removed from the repository the folders bower_components and node_modules
+
 So this was my very first experience with all of this tools. Any comments, opinions, hints, critics are more than welcome :) .
