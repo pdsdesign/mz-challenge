@@ -61,7 +61,7 @@ $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #0a0a0a;
 $white: #fefefe;
-$body-background: $white;
+$body-background: $black;
 $body-font-color: $black;
 $body-font-family: 'Lato', Helvetica, Roboto, Arial, sans-serif;
 $body-antialiased: true;
@@ -576,6 +576,7 @@ $topbar-unstack-breakpoint: medium;
 // -----------
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
 
+
 #texto_explicativo{ background: #4d4d4d; color:#fff; padding:40px 0; margin:0; };
 
 .light-gray-bg { background:#ebebeb ; padding:40px 0; margin:0;}
@@ -591,6 +592,6 @@ $topbar-unstack-breakpoint: medium;
 .row_pds {
   max-width: 100% !important;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto; background: #FFF;}
 
   .center_block {margin: 0 auto !important;}
